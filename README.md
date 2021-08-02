@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @supichayax
-- 👀 I’m interested in UX/UI Design and also coding!
+- 👀 I’m interested in UX/UI Design and also (obsessed with) coding!
 - 🌱 I’m currently learning Html and Css 
-Nice to talk to you!
+<br/>Nice to talk to you!😆
 
 <!---
 supichayax/supichayax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
